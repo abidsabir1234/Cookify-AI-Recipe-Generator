@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+onnxruntime
+opencv-python-headless
+numpy
+python-multipart
+intel-openmp
+ultralytics
+torch

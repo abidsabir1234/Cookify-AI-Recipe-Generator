@@ -1,0 +1,1735 @@
+{
+  "Spaghetti Carbonara": {
+    "ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese", "black pepper"],
+    "instructions": [
+      "Cook spaghetti according to package directions.",
+      "While pasta is cooking, cook bacon in a large skillet over medium heat until crisp. Remove bacon from skillet, reserving 2 tablespoons of drippings in the skillet. Crumble bacon.",
+      "In a small bowl, whisk together eggs and parmesan cheese.",
+      "Drain pasta and add to skillet with bacon drippings. Toss to coat.",
+      "Remove skillet from heat and stir in egg mixture and crumbled bacon. The heat from the pasta will cook the eggs. Season with black pepper and serve immediately."
+    ]
+  },
+  "Chicken Parmesan": {
+    "ingredients": ["chicken breast", "breadcrumbs", "parmesan cheese", "marinara sauce", "mozzarella cheese", "spaghetti"],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Coat chicken breasts in breadcrumbs and parmesan cheese.",
+      "In a large skillet, heat olive oil over medium-high heat. Add chicken and cook for 2-3 minutes per side, or until golden brown.",
+      "Pour marinara sauce into a baking dish. Place chicken on top of sauce and top with mozzarella cheese.",
+      "Bake for 15-20 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+      "Serve with spaghetti."
+    ]
+  },
+  "Beef Tacos": {
+    "ingredients": ["ground beef", "taco seasoning", "taco shells", "lettuce", "tomato", "cheddar cheese", "sour cream"],
+    "instructions": [
+      "In a large skillet, cook ground beef over medium-high heat until browned. Drain off excess fat.",
+      "Stir in taco seasoning and 1/2 cup of water. Bring to a simmer and cook for 5-7 minutes, or until sauce has thickened.",
+      "Warm taco shells according to package directions.",
+      "Fill taco shells with beef mixture and top with lettuce, tomato, cheese, and sour cream."
+    ]
+  },
+  "Chicken Stir-fry": {
+    "ingredients": ["chicken breast", "broccoli", "carrots", "soy sauce", "ginger", "garlic", "rice"],
+    "instructions": [
+      "In a large skillet or wok, heat olive oil over medium-high heat. Add chicken and cook until browned.",
+      "Add broccoli and carrots to skillet and cook for 5-7 minutes, or until tender-crisp.",
+      "In a small bowl, whisk together soy sauce, ginger, and garlic.",
+      "Pour sauce over chicken and vegetables and toss to coat. Cook for 2-3 minutes, or until sauce has thickened.",
+      "Serve with rice."
+    ]
+  },
+  "Vegetable Soup": {
+    "ingredients": ["onion", "carrots", "celery", "potatoes", "vegetable broth", "diced tomatoes", "thyme"],
+    "instructions": [
+      "In a large pot or Dutch oven, heat olive oil over medium heat. Add onion, carrots, and celery and cook until softened, about 5 minutes.",
+      "Add potatoes, vegetable broth, and diced tomatoes. Bring to a simmer and cook for 15-20 minutes, or until potatoes are tender.",
+      "Stir in thyme and season with salt and pepper to taste."
+    ]
+  },
+  "Caesar Salad": {
+    "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "Caesar dressing", "chicken breast"],
+    "instructions": [
+      "Wash and chop romaine lettuce.",
+      "In a large bowl, combine lettuce, croutons, and parmesan cheese.",
+      "Drizzle with Caesar dressing and toss to coat.",
+      "Top with grilled chicken breast, if desired."
+    ]
+  },
+  "Pizza": {
+    "ingredients": ["pizza dough", "pizza sauce", "mozzarella cheese", "pepperoni"],
+    "instructions": [
+      "Preheat oven to 450°F (230°C).",
+      "Roll out pizza dough on a lightly floured surface.",
+      "Spread pizza sauce over dough and top with mozzarella cheese and pepperoni.",
+      "Bake for 10-12 minutes, or until crust is golden brown and cheese is melted and bubbly."
+    ]
+  },
+  "Pancakes": {
+    "ingredients": ["flour", "baking powder", "sugar", "salt", "milk", "egg", "butter"],
+    "instructions": [
+      "In a large bowl, whisk together flour, baking powder, sugar, and salt.",
+      "In a separate bowl, whisk together milk and egg.",
+      "Pour wet ingredients into dry ingredients and whisk until just combined. Do not overmix.",
+      "Melt butter in a large skillet or griddle over medium heat.",
+      "Pour 1/4 cup of batter onto skillet for each pancake. Cook for 2-3 minutes per side, or until golden brown.",
+      "Serve with butter and maple syrup."
+    ]
+  },
+  "Waffles": {
+    "ingredients": ["flour", "baking powder", "sugar", "salt", "milk", "egg", "butter"],
+    "instructions": [
+      "Preheat waffle iron.",
+      "In a large bowl, whisk together flour, baking powder, sugar, and salt.",
+      "In a separate bowl, whisk together milk and egg.",
+      "Pour wet ingredients into dry ingredients and whisk until just combined. Do not overmix.",
+      "Stir in melted butter.",
+      "Pour batter onto waffle iron and cook according to manufacturer's directions."
+    ]
+  },
+  "French Toast": {
+    "ingredients": ["bread", "eggs", "milk", "cinnamon", "nutmeg", "butter"],
+    "instructions": [
+      "In a shallow dish, whisk together eggs, milk, cinnamon, and nutmeg.",
+      "Dip each slice of bread into egg mixture, coating both sides.",
+      "Melt butter in a large skillet over medium heat.",
+      "Add bread to skillet and cook for 2-3 minutes per side, or until golden brown.",
+      "Serve with butter and maple syrup."
+    ]
+  },
+  "Omelette": {
+    "ingredients": ["eggs", "milk", "cheese", "ham", "onion", "bell pepper"],
+    "instructions": [
+      "In a small bowl, whisk together eggs and milk.",
+      "Heat a lightly oiled skillet over medium-high heat.",
+      "Pour in egg mixture and cook until set.",
+      "Sprinkle with cheese, ham, onion, and bell pepper.",
+      "Fold omelette in half and serve."
+    ]
+  },
+  "Scrambled Eggs": {
+    "ingredients": ["eggs", "milk", "butter", "salt", "pepper"],
+    "instructions": [
+      "In a small bowl, whisk together eggs and milk.",
+      "Melt butter in a skillet over medium heat.",
+      "Pour in egg mixture and cook, stirring occasionally, until eggs are cooked to your liking.",
+      "Season with salt and pepper and serve."
+    ]
+  },
+  "Mac and Cheese": {
+    "ingredients": ["macaroni", "butter", "flour", "milk", "cheddar cheese"],
+    "instructions": [
+      "Cook macaroni according to package directions. Drain and set aside.",
+      "In a large saucepan, melt butter over medium heat. Stir in flour to form a paste.",
+      "Gradually whisk in milk until smooth. Cook and stir until thickened and bubbly.",
+      "Stir in cheese until melted.",
+      "Add macaroni and stir to coat. Serve immediately."
+    ]
+  },
+  "Grilled Cheese": {
+    "ingredients": ["bread", "butter", "cheddar cheese"],
+    "instructions": [
+      "Butter one side of each slice of bread.",
+      "Place one slice of bread, butter-side down, in a skillet over medium heat.",
+      "Top with cheese and another slice of bread, butter-side up.",
+      "Cook for 2-3 minutes per side, or until golden brown and cheese is melted."
+    ]
+  },
+  "BLT Sandwich": {
+    "ingredients": ["bacon", "lettuce", "tomato", "bread", "mayonnaise"],
+    "instructions": [
+      "Cook bacon in a large skillet over medium heat until crisp. Drain on paper towels.",
+      "Toast bread to your liking.",
+      "Spread mayonnaise on one side of each slice of toast.",
+      "Layer bacon, lettuce, and tomato on one slice of toast. Top with another slice of toast."
+    ]
+  },
+  "Chicken Noodle Soup": {
+    "ingredients": ["chicken broth", "chicken breast", "egg noodles", "carrots", "celery", "onion"],
+    "instructions": [
+      "In a large pot, bring chicken broth to a boil.",
+      "Add chicken, egg noodles, carrots, celery, and onion. Cook for 10-12 minutes, or until noodles are tender and chicken is cooked through.",
+      "Remove chicken from pot and shred. Return to pot and serve."
+    ]
+  },
+  "Tomato Soup": {
+    "ingredients": ["diced tomatoes", "vegetable broth", "onion", "garlic", "heavy cream"],
+    "instructions": [
+      "In a large pot, combine diced tomatoes, vegetable broth, onion, and garlic. Bring to a simmer and cook for 15-20 minutes.",
+      "Use an immersion blender to blend soup until smooth.",
+      "Stir in heavy cream and season with salt and pepper to taste."
+    ]
+  },
+  "Mashed Potatoes": {
+    "ingredients": ["potatoes", "butter", "milk", "salt", "pepper"],
+    "instructions": [
+      "Peel and cube potatoes. Place in a large pot and cover with water. Bring to a boil and cook for 15-20 minutes, or until tender.",
+      "Drain potatoes and return to pot. Mash with a potato masher or electric mixer.",
+      "Stir in butter, milk, salt, and pepper. Serve immediately."
+    ]
+  },
+  "Baked Potato": {
+    "ingredients": ["potato", "butter", "sour cream", "cheddar cheese", "bacon bits"],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Wash and dry potato. Prick several times with a fork.",
+      "Bake for 45-60 minutes, or until tender.",
+      "Cut a slit in the top of the potato and top with butter, sour cream, cheese, and bacon bits."
+    ]
+  },
+  "French Fries": {
+    "ingredients": ["potatoes", "oil", "salt"],
+    "instructions": [
+      "Peel and cut potatoes into fries.",
+      "Heat oil in a large skillet or deep fryer to 350°F (175°C).",
+      "Fry potatoes for 5-7 minutes, or until golden brown.",
+      "Drain on paper towels and season with salt."
+    ]
+  },
+  "Guacamole": {
+    "ingredients": ["avocados", "onion", "tomato", "lime juice", "cilantro", "salt"],
+    "instructions": [
+      "In a medium bowl, mash avocados.",
+      "Stir in onion, tomato, lime juice, cilantro, and salt.",
+      "Serve with tortilla chips."
+    ]
+  },
+  "Salsa": {
+    "ingredients": ["tomatoes", "onion", "jalapeno", "lime juice", "cilantro", "salt"],
+    "instructions": [
+      "In a food processor, combine all ingredients and pulse until desired consistency is reached.",
+      "Serve with tortilla chips."
+    ]
+  },
+  "Quesadillas": {
+    "ingredients": ["flour tortillas", "cheddar cheese", "chicken"],
+    "instructions": [
+      "Place a tortilla in a large skillet over medium heat.",
+      "Sprinkle with cheese and chicken.",
+      "Top with another tortilla and cook for 2-3 minutes per side, or until golden brown and cheese is melted.",
+      "Cut into wedges and serve with salsa and sour cream."
+    ]
+  },
+  "Nachos": {
+    "ingredients": ["tortilla chips", "cheddar cheese", "ground beef", "refried beans", "salsa", "sour cream"],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "Spread tortilla chips on a baking sheet.",
+      "Top with cheese, ground beef, and refried beans.",
+      "Bake for 5-7 minutes, or until cheese is melted.",
+      "Top with salsa and sour cream."
+    ]
+  },
+  "Burritos": {
+    "ingredients": ["flour tortillas", "ground beef", "refried beans", "cheddar cheese", "rice", "salsa", "sour cream"],
+    "instructions": [
+      "Warm tortillas according to package directions.",
+      "Fill each tortilla with ground beef, refried beans, cheese, and rice.",
+      "Fold in sides and roll up.",
+      "Serve with salsa and sour cream."
+    ]
+  },
+  "Enchiladas": {
+    "ingredients": ["corn tortillas", "enchilada sauce", "cheddar cheese", "chicken"],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Dip each tortilla in enchilada sauce to coat.",
+      "Fill each tortilla with chicken and cheese.",
+      "Roll up and place in a baking dish.",
+      "Pour remaining enchilada sauce over tortillas and top with cheese.",
+      "Bake for 20-25 minutes, or until heated through and cheese is melted and bubbly."
+    ]
+  },
+  "Fajitas": {
+    "ingredients": ["chicken", "bell peppers", "onion", "fajita seasoning", "flour tortillas"],
+    "instructions": [
+      "In a large skillet, cook chicken, bell peppers, and onion over medium-high heat until chicken is cooked through and vegetables are tender.",
+      "Stir in fajita seasoning and cook for 1 minute more.",
+      "Serve with warm tortillas and your favorite toppings."
+    ]
+  },
+  "Chili": {
+    "ingredients": ["ground beef", "kidney beans", "diced tomatoes", "onion", "chili powder", "cumin"],
+    "instructions": [
+      "In a large pot, cook ground beef and onion over medium-high heat until beef is browned. Drain off excess fat.",
+      "Stir in kidney beans, diced tomatoes, chili powder, and cumin. Bring to a simmer and cook for 30-45 minutes, or until flavors have blended."
+    ]
+  },
+  "Cornbread": {
+    "ingredients": ["cornmeal", "flour", "sugar", "baking powder", "salt", "egg", "milk", "vegetable oil"],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "In a large bowl, whisk together cornmeal, flour, sugar, baking powder, and salt.",
+      "In a separate bowl, whisk together egg, milk, and oil.",
+      "Pour wet ingredients into dry ingredients and whisk until just combined. Do not overmix.",
+      "Pour batter into a greased 9-inch square baking pan.",
+      "Bake for 20-25 minutes, or until a wooden skewer inserted into the center comes out clean."
+    ]
+  },
+  "Biscuits and Gravy": {
+    "ingredients": ["biscuits", "sausage", "flour", "milk", "salt", "pepper"],
+    "instructions": [
+      "Bake biscuits according to package directions.",
+      "While biscuits are baking, cook sausage in a large skillet over medium-high heat until browned. Crumble sausage and remove from skillet, reserving 2 tablespoons of drippings in the skillet.",
+      "Stir in flour to form a paste. Gradually whisk in milk until smooth. Cook and stir until thickened and bubbly.",
+      "Stir in sausage and season with salt and pepper to taste.",
+      "Serve gravy over biscuits."
+    ]
+  },
+    "Classic Beef Burger": {
+    "ingredients": ["ground beef", "onion", "garlic", "worcestershire sauce", "salt", "black pepper", "hamburger buns", "lettuce", "tomato", "cheddar cheese"],
+    "instructions": [
+      "In a large bowl, combine ground beef, minced onion, minced garlic, Worcestershire sauce, salt, and pepper.",
+      "Form the mixture into patties.",
+      "Grill or pan-fry the patties to your desired doneness.",
+      "Serve on hamburger buns with lettuce, tomato, and cheese."
+    ]
+  },
+  "Garlic Butter Shrimp Pasta": {
+    "ingredients": ["shrimp", "spaghetti", "butter", "garlic", "white wine", "lemon juice", "parsley"],
+    "instructions": [
+      "Cook spaghetti according to package directions.",
+      "In a large skillet, melt butter over medium heat. Add garlic and cook until fragrant.",
+      "Add shrimp and cook until pink.",
+      "Pour in white wine and lemon juice, and bring to a simmer.",
+      "Stir in cooked spaghetti and parsley. Serve immediately."
+    ]
+  },
+  "Mushroom Risotto": {
+    "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "vegetable broth", "white wine", "parmesan cheese", "butter"],
+    "instructions": [
+      "In a large saucepan, heat vegetable broth to a simmer.",
+      "In a separate large pot, melt butter over medium heat. Add onion and garlic and cook until softened.",
+      "Add mushrooms and cook until browned.",
+      "Stir in arborio rice and cook for 1 minute more.",
+      "Pour in white wine and cook until absorbed.",
+      "Add a ladle of vegetable broth and cook until absorbed, stirring constantly. Continue adding broth one ladle at a time, allowing each to be absorbed before adding the next, until the rice is creamy and cooked through.",
+      "Stir in parmesan cheese and serve."
+    ]
+  },
+  "Chicken and Dumplings": {
+    "ingredients": ["chicken breast", "chicken broth", "flour", "baking powder", "milk", "carrots", "celery", "onion"],
+    "instructions": [
+      "In a large pot, bring chicken broth to a boil. Add chicken and cook until cooked through. Remove chicken and shred.",
+      "In a separate bowl, combine flour, baking powder, and salt. Stir in milk to form a dough.",
+      "Drop spoonfuls of dough into the boiling broth. Cook for 10-12 minutes, or until dumplings are cooked through.",
+      "Return shredded chicken to the pot along with carrots, celery, and onion. Simmer until vegetables are tender."
+    ]
+  },
+  "Lemon Herb Roasted Chicken": {
+    "ingredients": ["chicken", "lemon", "rosemary", "thyme", "garlic", "olive oil", "salt", "black pepper", "potato", "carrot"],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Rub the chicken with olive oil, salt, pepper, rosemary, and thyme.",
+      "Stuff the cavity with a halved lemon and garlic cloves.",
+      "Place potatoes and carrots around the chicken in a roasting pan.",
+      "Roast for 1 to 1.5 hours, or until the chicken is cooked through and the juices run clear."
+    ]
+  },
+  "Pumpkin Spice Pancakes": {
+    "ingredients": ["flour", "pumpkin puree", "egg", "milk", "sugar", "baking powder", "cinnamon", "ginger", "nutmeg", "butter"],
+    "instructions": [
+      "In a bowl, whisk together flour, sugar, baking powder, and spices.",
+      "In another bowl, mix pumpkin puree, egg, and milk.",
+      "Combine wet and dry ingredients until just mixed.",
+      "Melt butter on a griddle and pour batter to form pancakes. Cook until bubbles appear, then flip and cook until golden brown."
+    ]
+  },
+  "Classic Minestrone Soup": {
+    "ingredients": ["onion", "carrot", "celery", "garlic", "vegetable broth", "diced tomatoes", "kidney beans", "pasta", "spinach"],
+    "instructions": [
+      "Sauté onion, carrot, celery, and garlic in a large pot.",
+      "Add vegetable broth and diced tomatoes. Bring to a boil.",
+      "Stir in kidney beans and pasta. Simmer until pasta is tender.",
+      "Stir in spinach until wilted. Season and serve."
+    ]
+  },
+  "Black Bean Burgers": {
+    "ingredients": ["black beans", "breadcrumbs", "onion", "garlic", "cumin", "chili powder", "egg", "hamburger buns"],
+    "instructions": [
+      "Mash black beans in a bowl.",
+      "Mix in breadcrumbs, minced onion, garlic, cumin, chili powder, and egg.",
+      "Form into patties and pan-fry or bake until firm.",
+      "Serve on buns with your favorite toppings."
+    ]
+  },
+  "Mango Lassi": {
+    "ingredients": ["mango", "yogurt", "milk", "sugar", "cardamom"],
+    "instructions": [
+      "Combine mango chunks, yogurt, milk, sugar, and a pinch of cardamom in a blender.",
+      "Blend until smooth and creamy.",
+      "Serve chilled."
+    ]
+  },
+  "Pomegranate and Goat Cheese Salad": {
+    "ingredients": ["spinach", "pomegranate seeds", "goat cheese", "walnuts", "balsamic vinaigrette"],
+    "instructions": [
+      "In a large bowl, combine spinach, pomegranate seeds, and walnuts.",
+      "Crumble goat cheese over the top.",
+      "Drizzle with balsamic vinaigrette and toss to serve."
+    ]
+  },
+  "Cilantro Lime Rice": {
+    "ingredients": ["rice", "water", "cilantro", "lime juice", "salt"],
+    "instructions": [
+      "Cook rice according to package directions.",
+      "Once cooked, fluff the rice with a fork and stir in chopped cilantro, lime juice, and salt."
+    ]
+  },
+  "Spicy Shrimp with Chili-Garlic Sauce": {
+    "ingredients": ["shrimp", "garlic", "red chili flakes", "olive oil", "lemon juice", "parsley"],
+    "instructions": [
+      "In a skillet, heat olive oil and sauté minced garlic and red chili flakes.",
+      "Add shrimp and cook until pink.",
+      "Squeeze lemon juice over the shrimp and garnish with fresh parsley."
+    ]
+  },
+  "Creamy Tomato and Spinach Pasta": {
+    "ingredients": ["pasta", "diced tomatoes", "spinach", "heavy cream", "garlic", "onion", "parmesan cheese"],
+    "instructions": [
+      "Cook pasta. While it cooks, sauté onion and garlic.",
+      "Add diced tomatoes and simmer.",
+      "Stir in heavy cream and spinach until the spinach wilts.",
+      "Combine with the pasta and top with parmesan cheese."
+    ]
+  },
+  "Beef and Broccoli Stir-Fry": {
+    "ingredients": ["beef", "broccoli", "soy sauce", "ginger", "garlic", "rice", "cornstarch"],
+    "instructions": [
+      "Slice beef thinly. In a bowl, toss beef with soy sauce and cornstarch.",
+      "In a wok or large skillet, stir-fry beef until browned. Remove from wok.",
+      "Add broccoli, ginger, and garlic to the wok and stir-fry until tender-crisp.",
+      "Return beef to the wok, add more soy sauce if needed, and heat through.",
+      "Serve over rice."
+    ]
+  },
+  "Baked Ziti": {
+    "ingredients": ["ziti pasta", "ricotta cheese", "marinara sauce", "mozzarella cheese", "parmesan cheese", "ground beef"],
+    "instructions": [
+      "Cook ziti pasta until al dente.",
+      "In a separate pan, brown the ground beef and drain.",
+      "In a large bowl, mix the cooked ziti, ricotta cheese, half of the marinara sauce, and the ground beef.",
+      "Spread the mixture in a baking dish. Top with the remaining marinara sauce, mozzarella, and parmesan.",
+      "Bake at 375°F (190°C) for 20-25 minutes, until bubbly."
+    ]
+  },
+  "Simple Egg Curry": {
+    "ingredients": ["eggs", "onion", "tomato", "ginger", "garlic", "turmeric powder", "red chili powder", "coriander", "oil"],
+    "instructions": [
+      "Hard boil the eggs, peel, and set aside.",
+      "In a pan, heat oil and sauté finely chopped onions until golden.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add finely chopped tomatoes, turmeric, and chili powder. Cook until tomatoes are soft and oil separates.",
+      "Add a little water to make a gravy. Add the boiled eggs (you can halve them or make slits in them).",
+      "Simmer for 5-7 minutes. Garnish with fresh coriander and serve."
+    ]
+  },
+  "Orange Glazed Carrots": {
+    "ingredients": ["carrot", "orange juice", "butter", "sugar", "salt"],
+    "instructions": [
+      "Slice carrots and place them in a saucepan.",
+      "Add orange juice, butter, sugar, and salt.",
+      "Bring to a boil, then reduce heat and simmer until carrots are tender and the glaze has thickened.",
+      "Serve warm."
+    ]
+  },
+  "Butter Chicken (Murgh Makhani)": {
+    "ingredients": ["chicken", "yogurt", "lemon juice", "turmeric powder", "garam masala", "butter", "onion", "garlic", "ginger", "tomato", "heavy cream", "cashews"],
+    "instructions": [
+      "Marinate chicken in yogurt, lemon juice, turmeric, and garam masala for at least 1 hour.",
+      "Grill or pan-fry the chicken until cooked through.",
+      "For the sauce, melt butter in a large pot. Sauté onions, garlic, and ginger.",
+      "Add pureed tomatoes and cashews. Simmer for 15 minutes.",
+      "Blend the sauce until smooth. Return to the pot, add cream, and simmer.",
+      "Add the cooked chicken to the sauce and heat through. Serve with naan or rice."
+    ]
+  },
+  "Zucchini and Corn Fritters": {
+    "ingredients": ["zucchini", "corn", "flour", "egg", "baking powder", "onion", "salt", "black pepper"],
+    "instructions": [
+      "Grate the zucchini and squeeze out excess water.",
+      "In a bowl, mix the zucchini, corn, flour, egg, baking powder, and finely chopped onion.",
+      "Season with salt and pepper.",
+      "Heat oil in a pan and drop spoonfuls of the batter. Fry until golden brown on both sides."
+    ]
+  },
+  "Spicy Black Pepper Chicken": {
+    "ingredients": ["chicken breast", "black pepper", "soy sauce", "cornstarch", "onion", "bell pepper", "garlic"],
+    "instructions": [
+      "Cut chicken into bite-sized pieces and toss with soy sauce and cornstarch.",
+      "In a hot wok, stir-fry the chicken until cooked. Remove from wok.",
+      "Sauté onion, bell pepper, and garlic until tender.",
+      "Return chicken to the wok, add a generous amount of freshly ground black pepper and a splash more soy sauce.",
+      "Toss everything together and serve hot."
+    ]
+  },
+  "Eggplant Parmesan": {
+    "ingredients": ["eggplant", "tomato", "cheese"],
+    "instructions": [
+      "Slice eggplant into 1/2-inch rounds and salt them. Let sit for 30 minutes, then pat dry.",
+      "Dip slices in beaten egg, then coat in breadcrumbs.",
+      "Fry in olive oil until golden brown on both sides.",
+      "Layer fried eggplant, tomato sauce, and cheese in a baking dish.",
+      "Bake at 375°F (190°C) for 25 minutes until cheese is bubbly."
+    ]
+  },
+  "Stuffed Eggplant": {
+    "ingredients": ["eggplant", "onion", "tomato", "garlic"],
+    "instructions": [
+      "Cut eggplants in half lengthwise and scoop out the flesh.",
+      "Sauté chopped onion and garlic until softened.",
+      "Add diced tomato and the scooped eggplant flesh. Cook for 10 minutes.",
+      "Fill the eggplant shells with the mixture.",
+      "Bake at 375°F (190°C) for 30 minutes until tender."
+    ]
+  },
+  "Baba Ganoush": {
+    "ingredients": ["eggplant", "garlic", "lemon"],
+    "instructions": [
+      "Roast whole eggplant at 400°F until completely soft and charred, about 40 minutes.",
+      "Scoop out the flesh and mash with minced garlic and lemon juice.",
+      "Season with salt and drizzle with olive oil.",
+      "Serve as a dip with pita bread."
+    ]
+  },
+  "Eggplant Curry": {
+    "ingredients": ["eggplant", "onion", "tomato", "garlic", "ginger"],
+    "instructions": [
+      "Cube the eggplant and soak in salted water for 15 minutes.",
+      "Sauté chopped onion, garlic, and ginger until golden.",
+      "Add chopped tomatoes and cook until soft.",
+      "Add drained eggplant cubes and simmer for 20 minutes.",
+      "Season with salt, turmeric, and chili powder. Serve with rice."
+    ]
+  },
+  "Grilled Eggplant Salad": {
+    "ingredients": ["eggplant", "tomato", "cucumber", "onion"],
+    "instructions": [
+      "Slice eggplant and grill until charred and tender.",
+      "Dice tomato, cucumber, and onion.",
+      "Chop grilled eggplant and combine with the vegetables.",
+      "Dress with olive oil, lemon juice, salt, and pepper."
+    ]
+  },
+  "Meat and Potato Stew": {
+    "ingredients": ["meat", "potato", "onion", "carrot"],
+    "instructions": [
+      "Cut meat into cubes and brown in a hot pot with oil.",
+      "Add diced onion and cook until softened.",
+      "Add cubed potatoes and sliced carrots.",
+      "Cover with water or broth and simmer for 1.5 hours until meat is tender.",
+      "Season with salt, pepper, and herbs."
+    ]
+  },
+  "Meat and Vegetable Stir-Fry": {
+    "ingredients": ["meat", "bell pepper", "onion", "carrot"],
+    "instructions": [
+      "Slice meat thinly against the grain.",
+      "Stir-fry meat in a hot wok until browned. Remove and set aside.",
+      "Stir-fry sliced bell pepper, onion, and carrot until tender-crisp.",
+      "Return meat to the wok and toss with soy sauce.",
+      "Serve hot over rice."
+    ]
+  },
+  "Meat and Cabbage Stir-Fry": {
+    "ingredients": ["meat", "cabbage", "onion", "garlic"],
+    "instructions": [
+      "Slice meat thinly and stir-fry until browned.",
+      "Add sliced onion and minced garlic, cook for 2 minutes.",
+      "Add shredded cabbage and stir-fry for 5 minutes until wilted.",
+      "Season with soy sauce, salt, and pepper. Serve hot."
+    ]
+  },
+  "Simple Tomato and Onion Curry": {
+    "ingredients": ["tomato", "onion", "garlic", "ginger"],
+    "instructions": [
+      "Sauté chopped onion until golden brown.",
+      "Add minced garlic and ginger, cook for 1 minute.",
+      "Add chopped tomatoes and cook until they break down into a sauce.",
+      "Season with salt, turmeric, chili powder, and cumin.",
+      "Simmer for 10 minutes. Serve with rice or bread."
+    ]
+  },
+  "Potato and Onion Fry": {
+    "ingredients": ["potato", "onion"],
+    "instructions": [
+      "Peel and thinly slice potatoes and onions.",
+      "Heat oil in a pan and add the potatoes. Fry until golden.",
+      "Add sliced onions and cook until softened.",
+      "Season with salt, pepper, and cumin. Serve as a side dish."
+    ]
+  },
+  "Carrot and Potato Soup": {
+    "ingredients": ["carrot", "potato", "onion"],
+    "instructions": [
+      "Dice carrots, potatoes, and onion.",
+      "Sauté onion in butter until soft.",
+      "Add carrots and potatoes, cover with water or broth.",
+      "Simmer until vegetables are very tender, about 20 minutes.",
+      "Blend until smooth. Season with salt and pepper."
+    ]
+  },
+  "Cabbage and Carrot Slaw": {
+    "ingredients": ["cabbage", "carrot"],
+    "instructions": [
+      "Finely shred the cabbage and grate the carrots.",
+      "Toss together in a large bowl.",
+      "Dress with a mixture of vinegar, oil, sugar, salt, and pepper.",
+      "Let sit for 15 minutes before serving."
+    ]
+  },
+  "Broccoli and Cauliflower Gratin": {
+    "ingredients": ["broccoli", "cauliflower", "cheese"],
+    "instructions": [
+      "Cut broccoli and cauliflower into florets and steam until just tender.",
+      "Place in a baking dish.",
+      "Make a cheese sauce with butter, flour, milk, and grated cheese.",
+      "Pour sauce over vegetables and top with more cheese.",
+      "Bake at 400°F for 20 minutes until golden and bubbly."
+    ]
+  },
+  "Stir-Fried Broccoli and Garlic": {
+    "ingredients": ["broccoli", "garlic"],
+    "instructions": [
+      "Cut broccoli into small florets.",
+      "Heat oil in a wok over high heat.",
+      "Add minced garlic and stir-fry for 30 seconds.",
+      "Add broccoli and stir-fry for 3-4 minutes until bright green and tender-crisp.",
+      "Season with soy sauce and sesame oil."
+    ]
+  },
+  "Cucumber and Tomato Salad": {
+    "ingredients": ["cucumber", "tomato", "onion"],
+    "instructions": [
+      "Slice cucumber and tomato. Thinly slice onion.",
+      "Combine in a bowl.",
+      "Dress with olive oil, vinegar, salt, and pepper.",
+      "Serve chilled."
+    ]
+  },
+  "Spinach and Potato Curry": {
+    "ingredients": ["spinach", "potato", "onion", "garlic"],
+    "instructions": [
+      "Boil and cube the potatoes.",
+      "Sauté chopped onion and garlic until golden.",
+      "Add washed spinach and cook until wilted.",
+      "Add the potato cubes and season with salt, cumin, and chili.",
+      "Cook together for 5 minutes. Serve with flatbread."
+    ]
+  },
+  "Corn and Bell Pepper Sauté": {
+    "ingredients": ["corn", "bell pepper", "onion"],
+    "instructions": [
+      "Cut corn kernels off the cob. Dice bell pepper and onion.",
+      "Sauté onion in butter until soft.",
+      "Add bell pepper and cook for 3 minutes.",
+      "Add corn and cook for 5 more minutes.",
+      "Season with salt, pepper, and a squeeze of lime."
+    ]
+  },
+  "Cauliflower Fried Rice": {
+    "ingredients": ["cauliflower", "carrot", "onion", "egg"],
+    "instructions": [
+      "Pulse cauliflower in a food processor until it resembles rice.",
+      "Scramble the egg in a hot pan. Set aside.",
+      "Sauté diced onion and carrot until tender.",
+      "Add cauliflower rice and cook for 5 minutes.",
+      "Stir in scrambled egg and season with soy sauce."
+    ]
+  },
+  "Tomato and Egg Stir-Fry": {
+    "ingredients": ["tomato", "egg"],
+    "instructions": [
+      "Cut tomatoes into wedges.",
+      "Scramble eggs in a hot pan and set aside.",
+      "Sauté tomato wedges until soft and saucy.",
+      "Add scrambled eggs back and toss together.",
+      "Season with salt, sugar, and a splash of soy sauce."
+    ]
+  },
+  "Potato and Carrot Roast": {
+    "ingredients": ["potato", "carrot"],
+    "instructions": [
+      "Peel and cut potatoes and carrots into chunks.",
+      "Toss with olive oil, salt, pepper, and rosemary.",
+      "Spread on a baking sheet in a single layer.",
+      "Roast at 425°F (220°C) for 35-40 minutes, turning once, until golden and crispy."
+    ]
+  },
+  "Cabbage and Potato Stir-Fry": {
+    "ingredients": ["cabbage", "potato", "onion"],
+    "instructions": [
+      "Slice potatoes thinly and shred cabbage.",
+      "Fry potato slices until lightly golden.",
+      "Add sliced onion and cook until soft.",
+      "Add shredded cabbage and stir-fry until wilted.",
+      "Season with salt, cumin, and chili flakes."
+    ]
+  },
+  "Bell Pepper and Onion Sauté": {
+    "ingredients": ["bell pepper", "onion"],
+    "instructions": [
+      "Slice bell peppers and onions into strips.",
+      "Heat oil in a skillet over medium-high heat.",
+      "Add peppers and onions and cook for 8-10 minutes until softened and slightly charred.",
+      "Season with salt, pepper, and oregano. Serve as a side or in fajitas."
+    ]
+  },
+  "Pea and Potato Curry": {
+    "ingredients": ["peas", "potato", "onion", "tomato"],
+    "instructions": [
+      "Boil and cube the potatoes.",
+      "Sauté chopped onion until golden.",
+      "Add chopped tomatoes and cook until saucy.",
+      "Add potatoes and peas. Season with turmeric, cumin, and chili.",
+      "Simmer for 10 minutes. Garnish with cilantro."
+    ]
+  },
+  "Garlic Mushroom Sauté": {
+    "ingredients": ["mushroom", "garlic"],
+    "instructions": [
+      "Clean and slice mushrooms.",
+      "Melt butter in a skillet over medium-high heat.",
+      "Add minced garlic and cook for 30 seconds.",
+      "Add mushrooms and cook for 6-8 minutes until golden.",
+      "Season with salt, pepper, and fresh parsley."
+    ]
+  },
+  "Spinach and Mushroom Omelette": {
+    "ingredients": ["egg", "spinach", "mushroom"],
+    "instructions": [
+      "Beat eggs with a splash of milk and season with salt and pepper.",
+      "Sauté sliced mushrooms until golden. Add spinach and wilt.",
+      "Remove vegetables and set aside.",
+      "Pour eggs into the hot pan and cook until set on bottom.",
+      "Add vegetables to one half, fold omelette over, and serve."
+    ]
+  },
+  "Roasted Cauliflower": {
+    "ingredients": ["cauliflower", "garlic"],
+    "instructions": [
+      "Break cauliflower into florets.",
+      "Toss with olive oil, minced garlic, salt, and pepper.",
+      "Spread on a baking sheet.",
+      "Roast at 425°F (220°C) for 25-30 minutes until golden and caramelized.",
+      "Squeeze lemon juice over the top before serving."
+    ]
+  },
+  "Carrot Ginger Soup": {
+    "ingredients": ["carrot", "ginger", "onion"],
+    "instructions": [
+      "Sauté chopped onion and grated ginger until fragrant.",
+      "Add sliced carrots and cover with broth.",
+      "Simmer for 20 minutes until carrots are very tender.",
+      "Blend until smooth.",
+      "Season with salt and pepper. Serve with a swirl of cream."
+    ]
+  },
+  "Tomato Onion Egg Scramble": {
+    "ingredients": ["tomato", "onion", "egg"],
+    "instructions": [
+      "Dice tomato and onion.",
+      "Sauté onion until soft, then add tomato and cook until saucy.",
+      "Beat eggs and pour over the tomato-onion mixture.",
+      "Scramble everything together until eggs are cooked.",
+      "Season and serve with toast."
+    ]
+  },
+  "Potato and Spinach Hash": {
+    "ingredients": ["potato", "spinach", "onion", "egg"],
+    "instructions": [
+      "Dice potatoes and fry until golden and crisp.",
+      "Add diced onion and cook until soft.",
+      "Add spinach and stir until wilted.",
+      "Make wells in the hash and crack eggs into them.",
+      "Cover and cook until eggs are set. Serve hot."
+    ]
+  },
+  "Vegetable Omelette": {
+    "ingredients": ["egg", "tomato", "onion", "bell pepper"],
+    "instructions": [
+      "Dice tomato, onion, and bell pepper.",
+      "Sauté the vegetables until softened.",
+      "Beat eggs with salt and pepper.",
+      "Pour eggs over vegetables and cook until the bottom is set.",
+      "Fold in half and serve."
+    ]
+  },
+  "Simple Fried Eggplant": {
+    "ingredients": ["eggplant", "garlic"],
+    "instructions": [
+      "Slice eggplant into rounds.",
+      "Salt the slices and let sit for 20 minutes to draw out moisture. Pat dry.",
+      "Heat oil in a pan with sliced garlic until garlic is fragrant.",
+      "Fry eggplant slices until golden on both sides.",
+      "Serve with a squeeze of lemon."
+    ]
+  },
+  "Meat and Eggplant Casserole": {
+    "ingredients": ["meat", "eggplant", "tomato", "onion"],
+    "instructions": [
+      "Brown meat cubes in a pan. Set aside.",
+      "Slice and fry eggplant until golden.",
+      "Sauté onion, then add chopped tomatoes to make a sauce.",
+      "Layer meat, eggplant, and tomato sauce in a baking dish.",
+      "Bake at 375°F (190°C) for 30 minutes."
+    ]
+  },
+  "Pumpkin Soup": {
+    "ingredients": ["pumpkin", "onion", "garlic"],
+    "instructions": [
+      "Peel and cube the pumpkin.",
+      "Sauté chopped onion and garlic until soft.",
+      "Add pumpkin cubes and cover with broth.",
+      "Simmer for 20 minutes until pumpkin is tender.",
+      "Blend until smooth. Season with salt, pepper, and nutmeg."
+    ]
+  },
+  "Sweet Potato Fries": {
+    "ingredients": ["sweet potato"],
+    "instructions": [
+      "Peel sweet potatoes and cut into fry shapes.",
+      "Toss with olive oil, salt, and paprika.",
+      "Spread on a baking sheet in a single layer.",
+      "Bake at 425°F (220°C) for 25-30 minutes, flipping halfway.",
+      "Serve with your favorite dipping sauce."
+    ]
+  },
+  "Lemon Garlic Green Beans": {
+    "ingredients": ["green beans", "garlic", "lemon"],
+    "instructions": [
+      "Trim the green beans.",
+      "Blanch in boiling water for 3 minutes, then plunge into ice water.",
+      "Heat olive oil in a pan with minced garlic.",
+      "Add green beans and sauté for 3 minutes.",
+      "Squeeze lemon juice over them and season with salt and pepper."
+    ]
+  },
+  "Okra Stir-Fry": {
+    "ingredients": ["okra", "onion", "tomato"],
+    "instructions": [
+      "Wash and slice okra into rounds.",
+      "Sauté sliced onion until golden.",
+      "Add okra and cook on medium-high heat for 10 minutes, stirring occasionally.",
+      "Add chopped tomato and cook for 5 more minutes.",
+      "Season with salt, turmeric, and chili powder."
+    ]
+  },
+  "Radish Salad": {
+    "ingredients": ["radish", "cucumber"],
+    "instructions": [
+      "Thinly slice radishes and cucumber.",
+      "Toss together in a bowl.",
+      "Dress with rice vinegar, sesame oil, salt, and a pinch of sugar.",
+      "Garnish with sesame seeds and serve chilled."
+    ]
+  },
+  "Asparagus with Garlic Butter": {
+    "ingredients": ["asparagus", "garlic"],
+    "instructions": [
+      "Trim the woody ends of asparagus.",
+      "Melt butter in a skillet and add minced garlic.",
+      "Add asparagus and cook for 5-7 minutes until tender-crisp.",
+      "Season with salt, pepper, and a squeeze of lemon."
+    ]
+  },
+  "Aloo Gobi (Potato Cauliflower)": {
+    "ingredients": ["potato", "cauliflower", "onion", "tomato"],
+    "instructions": [
+      "Cube potatoes and break cauliflower into florets.",
+      "Sauté sliced onion until golden.",
+      "Add chopped tomato and cook until soft.",
+      "Add potatoes and cauliflower with turmeric, cumin, and chili powder.",
+      "Cover and cook on low heat for 20 minutes until tender."
+    ]
+  },
+  "Palak Paneer": {
+    "ingredients": ["spinach", "cheese", "onion", "tomato", "garlic", "ginger"],
+    "instructions": [
+      "Blanch spinach and blend into a smooth puree.",
+      "Sauté onion, garlic, and ginger until golden.",
+      "Add chopped tomatoes and cook until soft.",
+      "Stir in spinach puree and simmer for 10 minutes.",
+      "Add cubed cheese and cook for 5 more minutes. Serve with rice or naan."
+    ]
+  },
+  "Vegetable Fried Rice": {
+    "ingredients": ["rice", "carrot", "peas", "egg", "onion"],
+    "instructions": [
+      "Cook rice and let it cool completely (day-old rice works best).",
+      "Scramble eggs in a hot wok and set aside.",
+      "Stir-fry diced carrot, peas, and onion until tender.",
+      "Add cold rice and toss on high heat for 3-4 minutes.",
+      "Stir in scrambled eggs and season with soy sauce."
+    ]
+  },
+  "Egg Fried Rice": {
+    "ingredients": ["rice", "egg", "onion"],
+    "instructions": [
+      "Cook rice ahead of time and let it cool.",
+      "Beat eggs and scramble in a hot wok. Set aside.",
+      "Sauté diced onion until translucent.",
+      "Add rice and stir-fry on high heat.",
+      "Mix in scrambled eggs, season with soy sauce and sesame oil."
+    ]
+  },
+  "Chicken Fried Rice": {
+    "ingredients": ["rice", "chicken", "egg", "carrot", "onion"],
+    "instructions": [
+      "Cook and cool rice. Dice chicken breast.",
+      "Stir-fry chicken until cooked through. Set aside.",
+      "Scramble eggs and set aside.",
+      "Sauté diced carrot and onion.",
+      "Add rice, chicken, and eggs. Toss with soy sauce on high heat."
+    ]
+  },
+  "Mushroom and Onion Soup": {
+    "ingredients": ["mushroom", "onion", "garlic"],
+    "instructions": [
+      "Slice mushrooms and dice onion.",
+      "Sauté onion and garlic in butter until soft.",
+      "Add mushrooms and cook until golden brown.",
+      "Add broth and simmer for 15 minutes.",
+      "Blend partially for a chunky soup. Season with salt and pepper."
+    ]
+  },
+  "Potato Leek Soup": {
+    "ingredients": ["potato", "leek", "onion"],
+    "instructions": [
+      "Slice leeks and dice potatoes and onion.",
+      "Sauté leeks and onion in butter until soft.",
+      "Add potatoes and cover with broth.",
+      "Simmer for 20 minutes until potatoes are tender.",
+      "Blend until smooth. Serve with a dollop of cream."
+    ]
+  },
+  "Tomato Bruschetta": {
+    "ingredients": ["tomato", "garlic", "basil"],
+    "instructions": [
+      "Dice tomatoes and mix with minced garlic and chopped basil.",
+      "Season with salt, pepper, and olive oil.",
+      "Let marinate for 15 minutes.",
+      "Toast bread slices and top with the tomato mixture.",
+      "Drizzle with balsamic vinegar and serve."
+    ]
+  },
+  "Shakshuka": {
+    "ingredients": ["egg", "tomato", "onion", "bell pepper", "garlic"],
+    "instructions": [
+      "Sauté diced onion, bell pepper, and garlic until soft.",
+      "Add chopped tomatoes and cook into a thick sauce.",
+      "Season with cumin, paprika, and chili flakes.",
+      "Make wells in the sauce and crack eggs into them.",
+      "Cover and cook until eggs are set. Serve with bread."
+    ]
+  },
+  "Greek Salad": {
+    "ingredients": ["cucumber", "tomato", "onion", "cheese"],
+    "instructions": [
+      "Dice cucumber, tomato, and red onion.",
+      "Combine in a large bowl.",
+      "Add cubed feta cheese and olives.",
+      "Dress with olive oil, oregano, salt, and pepper.",
+      "Toss gently and serve chilled."
+    ]
+  },
+  "Caprese Salad": {
+    "ingredients": ["tomato", "cheese", "basil"],
+    "instructions": [
+      "Slice tomatoes and fresh mozzarella into rounds.",
+      "Arrange alternating slices on a plate.",
+      "Tuck fresh basil leaves between slices.",
+      "Drizzle with olive oil and balsamic glaze.",
+      "Season with salt and pepper."
+    ]
+  },
+  "Ratatouille": {
+    "ingredients": ["eggplant", "zucchini", "tomato", "bell pepper", "onion"],
+    "instructions": [
+      "Dice eggplant, zucchini, bell pepper, and onion into similar-sized cubes.",
+      "Sauté onion until soft, then add bell pepper.",
+      "Add eggplant and zucchini, cook for 5 minutes.",
+      "Add chopped tomatoes and herbs (thyme, basil).",
+      "Simmer on low for 30 minutes. Season and serve."
+    ]
+  },
+  "Stuffed Bell Peppers": {
+    "ingredients": ["bell pepper", "rice", "onion", "tomato"],
+    "instructions": [
+      "Cut tops off bell peppers and remove seeds.",
+      "Cook rice and mix with sautéed onion and diced tomato.",
+      "Season the filling with salt, pepper, and herbs.",
+      "Stuff the peppers with the rice mixture.",
+      "Bake at 375°F for 30 minutes until peppers are tender."
+    ]
+  },
+  "Meat Stuffed Peppers": {
+    "ingredients": ["bell pepper", "meat", "rice", "onion", "tomato"],
+    "instructions": [
+      "Hollow out bell peppers.",
+      "Brown the meat with diced onion.",
+      "Mix meat with cooked rice and chopped tomato.",
+      "Fill peppers with the mixture.",
+      "Top with cheese and bake at 375°F for 25 minutes."
+    ]
+  },
+  "Potato Gratin": {
+    "ingredients": ["potato", "cheese", "garlic"],
+    "instructions": [
+      "Thinly slice potatoes using a mandoline.",
+      "Rub a baking dish with garlic and butter.",
+      "Layer potato slices, seasoning each layer with salt, pepper, and cheese.",
+      "Pour cream over the top.",
+      "Bake at 375°F for 45 minutes until golden and bubbly."
+    ]
+  },
+  "Creamy Garlic Pasta": {
+    "ingredients": ["pasta", "garlic", "cheese"],
+    "instructions": [
+      "Cook pasta until al dente.",
+      "Sauté minced garlic in butter until fragrant.",
+      "Add cream and simmer for 3 minutes.",
+      "Toss in pasta and grated cheese.",
+      "Stir until creamy. Season with salt and pepper."
+    ]
+  },
+  "Pasta Primavera": {
+    "ingredients": ["pasta", "broccoli", "bell pepper", "carrot", "tomato"],
+    "instructions": [
+      "Cook pasta until al dente.",
+      "Sauté sliced carrots, broccoli, and bell pepper until tender-crisp.",
+      "Add diced tomatoes and cook for 2 minutes.",
+      "Toss vegetables with pasta.",
+      "Drizzle with olive oil and top with parmesan."
+    ]
+  },
+  "Lemon Butter Salmon": {
+    "ingredients": ["salmon", "lemon", "garlic"],
+    "instructions": [
+      "Season salmon fillets with salt and pepper.",
+      "Sear skin-side down in a hot pan for 4 minutes.",
+      "Flip and cook for 3 more minutes.",
+      "Add butter, garlic, and lemon juice to the pan.",
+      "Baste salmon with the sauce and serve."
+    ]
+  },
+  "Honey Garlic Chicken": {
+    "ingredients": ["chicken", "garlic", "ginger"],
+    "instructions": [
+      "Cut chicken into pieces and season with salt.",
+      "Sear chicken in a hot pan until golden.",
+      "Add minced garlic and ginger, cook for 1 minute.",
+      "Pour in a mixture of honey, soy sauce, and water.",
+      "Simmer until sauce thickens and coats the chicken."
+    ]
+  },
+  "Chicken and Rice": {
+    "ingredients": ["chicken", "rice", "onion", "carrot"],
+    "instructions": [
+      "Season and brown chicken pieces in a pot.",
+      "Remove chicken and sauté onion and carrot.",
+      "Add rice and toast for 1 minute.",
+      "Return chicken, add broth, and bring to a simmer.",
+      "Cover and cook for 20 minutes until rice is done."
+    ]
+  },
+  "Tuna Salad": {
+    "ingredients": ["tuna", "onion", "cucumber"],
+    "instructions": [
+      "Drain canned tuna and flake into a bowl.",
+      "Dice onion and cucumber finely.",
+      "Mix together with mayonnaise.",
+      "Season with salt, pepper, and lemon juice.",
+      "Serve on bread or with crackers."
+    ]
+  },
+  "Shrimp and Broccoli": {
+    "ingredients": ["shrimp", "broccoli", "garlic"],
+    "instructions": [
+      "Cut broccoli into small florets and blanch briefly.",
+      "Sauté minced garlic in oil.",
+      "Add shrimp and cook until pink.",
+      "Add broccoli and toss together.",
+      "Season with soy sauce and serve over rice."
+    ]
+  },
+  "Chicken and Broccoli": {
+    "ingredients": ["chicken", "broccoli", "garlic"],
+    "instructions": [
+      "Slice chicken and stir-fry until golden.",
+      "Remove and sauté garlic briefly.",
+      "Add broccoli florets and stir-fry until bright green.",
+      "Return chicken and toss with a sauce of soy sauce and oyster sauce.",
+      "Serve over rice."
+    ]
+  },
+  "Pork and Cabbage Stir-Fry": {
+    "ingredients": ["pork", "cabbage", "garlic", "ginger"],
+    "instructions": [
+      "Slice pork thinly.",
+      "Stir-fry pork in a hot wok until browned.",
+      "Add minced garlic and ginger.",
+      "Add shredded cabbage and cook until wilted.",
+      "Season with soy sauce and sesame oil."
+    ]
+  },
+  "Lamb and Potato Curry": {
+    "ingredients": ["lamb", "potato", "onion", "tomato"],
+    "instructions": [
+      "Brown lamb cubes in oil.",
+      "Sauté onion until golden.",
+      "Add chopped tomato and spices (cumin, coriander, turmeric).",
+      "Add potatoes and water, simmer for 1 hour until lamb is tender.",
+      "Garnish with cilantro and serve with rice."
+    ]
+  },
+  "Beef and Potato Hash": {
+    "ingredients": ["beef", "potato", "onion"],
+    "instructions": [
+      "Dice potatoes and cook in a skillet until golden.",
+      "Add diced beef and brown.",
+      "Add chopped onion and cook until soft.",
+      "Season with salt, pepper, and paprika.",
+      "Press down to form a crispy crust. Serve with eggs on top."
+    ]
+  },
+  "Zucchini Noodles with Tomato Sauce": {
+    "ingredients": ["zucchini", "tomato", "garlic"],
+    "instructions": [
+      "Spiralize zucchini into noodles.",
+      "Sauté minced garlic in olive oil.",
+      "Add diced tomatoes and simmer into a sauce.",
+      "Add zucchini noodles and toss for 2 minutes.",
+      "Season with basil, salt, and pepper."
+    ]
+  },
+  "Spinach Salad with Egg": {
+    "ingredients": ["spinach", "egg", "onion"],
+    "instructions": [
+      "Hard boil eggs and slice.",
+      "Wash and dry baby spinach.",
+      "Thinly slice red onion.",
+      "Arrange spinach on a plate, top with egg and onion.",
+      "Dress with olive oil and vinegar."
+    ]
+  },
+  "Beet and Goat Cheese Salad": {
+    "ingredients": ["beet", "cheese", "spinach"],
+    "instructions": [
+      "Roast beets at 400°F for 45 minutes until tender.",
+      "Peel and slice the beets.",
+      "Arrange on a bed of spinach.",
+      "Crumble cheese over the top.",
+      "Dress with balsamic vinaigrette."
+    ]
+  },
+  "Lentil Soup": {
+    "ingredients": ["lentils", "carrot", "onion", "tomato"],
+    "instructions": [
+      "Rinse lentils.",
+      "Sauté diced onion and carrot until soft.",
+      "Add lentils, chopped tomato, and broth.",
+      "Simmer for 25-30 minutes until lentils are tender.",
+      "Season with cumin, salt, and lemon juice."
+    ]
+  },
+  "Dal (Lentil Curry)": {
+    "ingredients": ["lentils", "onion", "tomato", "garlic", "ginger"],
+    "instructions": [
+      "Rinse lentils and boil until soft.",
+      "Sauté onion, garlic, and ginger until golden.",
+      "Add chopped tomato and cook until soft.",
+      "Add cooked lentils and season with turmeric, cumin, and chili.",
+      "Simmer for 10 minutes. Serve with rice."
+    ]
+  },
+  "Chickpea Curry": {
+    "ingredients": ["chickpeas", "onion", "tomato", "garlic", "ginger"],
+    "instructions": [
+      "Sauté onion, garlic, and ginger.",
+      "Add chopped tomatoes and cook until saucy.",
+      "Add chickpeas and season with cumin, coriander, and garam masala.",
+      "Simmer for 15 minutes.",
+      "Garnish with cilantro and serve with rice or naan."
+    ]
+  },
+  "Hummus": {
+    "ingredients": ["chickpeas", "garlic", "lemon"],
+    "instructions": [
+      "Drain and rinse chickpeas.",
+      "Blend chickpeas with minced garlic, lemon juice, tahini, and olive oil.",
+      "Add a splash of water to reach desired consistency.",
+      "Season with salt and cumin.",
+      "Drizzle with olive oil and serve with pita."
+    ]
+  },
+  "Black Bean Soup": {
+    "ingredients": ["black beans", "onion", "garlic", "tomato"],
+    "instructions": [
+      "Sauté onion and garlic until soft.",
+      "Add black beans and diced tomato.",
+      "Add broth and simmer for 20 minutes.",
+      "Blend half the soup for a thicker consistency.",
+      "Season with cumin, lime juice, and cilantro."
+    ]
+  },
+  "Corn Chowder": {
+    "ingredients": ["corn", "potato", "onion"],
+    "instructions": [
+      "Dice potato and onion.",
+      "Sauté onion in butter until soft.",
+      "Add potatoes and broth, simmer until tender.",
+      "Add corn kernels and cook for 5 minutes.",
+      "Add cream, season with salt and pepper."
+    ]
+  },
+  "Sweet Potato and Black Bean Bowl": {
+    "ingredients": ["sweet potato", "black beans", "corn", "onion"],
+    "instructions": [
+      "Cube sweet potato and roast at 400°F for 25 minutes.",
+      "Warm black beans and corn in a pan.",
+      "Dice and sauté onion.",
+      "Assemble bowls with sweet potato, beans, corn, and onion.",
+      "Top with avocado and lime juice."
+    ]
+  },
+  "Avocado Toast": {
+    "ingredients": ["avocado", "lemon"],
+    "instructions": [
+      "Toast bread until golden.",
+      "Mash avocado with lemon juice, salt, and pepper.",
+      "Spread onto toast.",
+      "Top with chili flakes and everything seasoning.",
+      "Optional: add a fried egg on top."
+    ]
+  },
+  "Mango Salsa": {
+    "ingredients": ["mango", "onion", "tomato", "lime", "cilantro"],
+    "instructions": [
+      "Dice mango, tomato, and red onion.",
+      "Combine in a bowl.",
+      "Add chopped cilantro and lime juice.",
+      "Season with salt and a pinch of chili.",
+      "Serve with chips or grilled fish."
+    ]
+  },
+  "Banana Pancakes": {
+    "ingredients": ["banana", "egg"],
+    "instructions": [
+      "Mash ripe banana in a bowl.",
+      "Beat in eggs until combined.",
+      "Heat a non-stick pan over medium heat.",
+      "Pour small circles of batter and cook 2 minutes per side.",
+      "Serve with honey or maple syrup."
+    ]
+  },
+  "Apple and Carrot Salad": {
+    "ingredients": ["apple", "carrot"],
+    "instructions": [
+      "Grate apple and carrot.",
+      "Toss together in a bowl.",
+      "Dress with lemon juice, honey, and a pinch of cinnamon.",
+      "Serve immediately as a fresh side dish."
+    ]
+  },
+  "Onion Soup": {
+    "ingredients": ["onion", "garlic", "cheese"],
+    "instructions": [
+      "Thinly slice a large quantity of onions.",
+      "Cook slowly in butter for 30-40 minutes until deeply caramelized.",
+      "Add garlic and cook 1 minute more.",
+      "Add beef broth and simmer for 15 minutes.",
+      "Ladle into bowls, top with bread and cheese, broil until bubbly."
+    ]
+  },
+  "Spinach and Egg Wrap": {
+    "ingredients": ["spinach", "egg", "tomato"],
+    "instructions": [
+      "Scramble eggs in a pan.",
+      "Add a handful of spinach and stir until wilted.",
+      "Dice tomato and add to the pan.",
+      "Season with salt and pepper.",
+      "Wrap in a tortilla and serve."
+    ]
+  },
+  "Ginger Chicken Soup": {
+    "ingredients": ["chicken", "ginger", "garlic", "carrot"],
+    "instructions": [
+      "Simmer chicken pieces in broth with sliced ginger and garlic.",
+      "Add sliced carrot and cook until tender.",
+      "Shred the chicken and return to the pot.",
+      "Season with salt, pepper, and lime juice.",
+      "Serve hot with rice or noodles."
+    ]
+  },
+  "Cabbage Rolls": {
+    "ingredients": ["cabbage", "meat", "rice", "onion", "tomato"],
+    "instructions": [
+      "Boil cabbage leaves until pliable.",
+      "Mix cooked rice with meat and diced onion.",
+      "Place filling on each leaf and roll up tightly.",
+      "Arrange rolls in a baking dish and pour tomato sauce over them.",
+      "Bake covered at 350°F for 1 hour."
+    ]
+  },
+  "Coleslaw": {
+    "ingredients": ["cabbage", "carrot", "onion"],
+    "instructions": [
+      "Shred cabbage and grate carrot.",
+      "Thinly slice onion.",
+      "Mix mayonnaise with vinegar, sugar, salt, and pepper.",
+      "Toss vegetables with the dressing.",
+      "Refrigerate for 1 hour before serving."
+    ]
+  },
+  "Potato Pancakes (Latkes)": {
+    "ingredients": ["potato", "onion", "egg"],
+    "instructions": [
+      "Grate potatoes and onion. Squeeze out excess moisture.",
+      "Mix with beaten egg, flour, salt, and pepper.",
+      "Heat oil in a skillet.",
+      "Drop spoonfuls of mixture and flatten into pancakes.",
+      "Fry until golden brown on both sides. Serve with sour cream."
+    ]
+  },
+  "Fried Rice with Egg and Vegetables": {
+    "ingredients": ["rice", "egg", "carrot", "corn", "onion"],
+    "instructions": [
+      "Use cold leftover rice for best results.",
+      "Scramble eggs and set aside.",
+      "Stir-fry diced carrot, corn, and onion until tender.",
+      "Add rice and fry on high heat.",
+      "Mix in eggs and season with soy sauce."
+    ]
+  },
+  "Chicken Lettuce Wraps": {
+    "ingredients": ["chicken", "lettuce", "onion", "garlic", "ginger"],
+    "instructions": [
+      "Mince chicken or use ground chicken.",
+      "Stir-fry with garlic, ginger, and diced onion.",
+      "Season with soy sauce and hoisin sauce.",
+      "Wash and separate lettuce leaves into cups.",
+      "Spoon chicken mixture into lettuce cups and serve."
+    ]
+  },
+  "Cucumber Raita": {
+    "ingredients": ["cucumber", "yogurt", "onion"],
+    "instructions": [
+      "Grate or finely dice cucumber.",
+      "Mix with yogurt.",
+      "Add finely diced onion.",
+      "Season with salt, roasted cumin, and a pinch of chili.",
+      "Serve chilled as a side dish."
+    ]
+  },
+  "Tomato Rice": {
+    "ingredients": ["rice", "tomato", "onion", "garlic"],
+    "instructions": [
+      "Sauté diced onion and garlic until fragrant.",
+      "Add chopped tomatoes and cook until soft.",
+      "Add rice and stir to coat.",
+      "Add water and bring to a boil.",
+      "Reduce heat, cover, and cook until rice is done."
+    ]
+  },
+  "Mushroom Rice": {
+    "ingredients": ["rice", "mushroom", "onion", "garlic"],
+    "instructions": [
+      "Sauté sliced mushrooms until golden.",
+      "Add diced onion and garlic, cook until soft.",
+      "Add rice and toast for 1 minute.",
+      "Add broth, bring to a boil, then cover and simmer.",
+      "Cook until rice is tender and liquid is absorbed."
+    ]
+  },
+  "Garlic Bread": {
+    "ingredients": ["bread", "garlic", "butter"],
+    "instructions": [
+      "Mix softened butter with minced garlic and parsley.",
+      "Slice a baguette in half lengthwise.",
+      "Spread garlic butter generously on cut sides.",
+      "Wrap in foil and bake at 375°F for 10 minutes.",
+      "Open foil and broil for 2 minutes until golden."
+    ]
+  },
+  "Avocado and Egg Bowl": {
+    "ingredients": ["avocado", "egg", "tomato"],
+    "instructions": [
+      "Halve avocado and remove the pit.",
+      "Fry or poach eggs to your liking.",
+      "Place eggs over avocado halves.",
+      "Add diced tomato and season with salt, pepper, and chili flakes.",
+      "Drizzle with olive oil and serve."
+    ]
+  },
+  "Pumpkin Curry": {
+    "ingredients": ["pumpkin", "onion", "tomato", "garlic"],
+    "instructions": [
+      "Peel and cube pumpkin.",
+      "Sauté onion and garlic until golden.",
+      "Add diced tomato and cook until soft.",
+      "Add pumpkin and coconut milk.",
+      "Simmer for 20 minutes until pumpkin is tender. Season with curry powder."
+    ]
+  },
+  "Sweet Potato Mash": {
+    "ingredients": ["sweet potato", "butter"],
+    "instructions": [
+      "Peel and cube sweet potatoes.",
+      "Boil until tender, about 15 minutes.",
+      "Drain and mash with butter.",
+      "Season with salt, pepper, and a dash of cinnamon.",
+      "Serve as a side dish."
+    ]
+  },
+  "Tomato and Basil Soup": {
+    "ingredients": ["tomato", "basil", "onion", "garlic"],
+    "instructions": [
+      "Sauté onion and garlic until soft.",
+      "Add chopped tomatoes and simmer 20 minutes.",
+      "Add fresh basil leaves.",
+      "Blend until smooth.",
+      "Stir in cream and season with salt and pepper."
+    ]
+  },
+  "Broccoli Soup": {
+    "ingredients": ["broccoli", "potato", "onion"],
+    "instructions": [
+      "Sauté diced onion until soft.",
+      "Add chopped broccoli and diced potato.",
+      "Cover with broth and simmer 15 minutes.",
+      "Blend until smooth.",
+      "Season with salt, pepper, and a swirl of cream."
+    ]
+  },
+  "Cauliflower Soup": {
+    "ingredients": ["cauliflower", "onion", "garlic"],
+    "instructions": [
+      "Break cauliflower into florets.",
+      "Sauté onion and garlic in butter.",
+      "Add cauliflower and broth.",
+      "Simmer for 15 minutes until very tender.",
+      "Blend until silky smooth. Season and serve."
+    ]
+  },
+  "Spinach Soup": {
+    "ingredients": ["spinach", "onion", "garlic", "potato"],
+    "instructions": [
+      "Sauté onion and garlic until soft.",
+      "Add diced potato and broth, simmer until potato is tender.",
+      "Add a large bunch of spinach and cook until wilted.",
+      "Blend until smooth.",
+      "Finish with cream, salt, and pepper."
+    ]
+  },
+  "Onion Rings": {
+    "ingredients": ["onion", "egg"],
+    "instructions": [
+      "Slice onion into thick rings and separate.",
+      "Dip in flour, then beaten egg, then breadcrumbs.",
+      "Heat oil to 375°F.",
+      "Fry rings until golden brown, about 2-3 minutes.",
+      "Drain on paper towels and season with salt."
+    ]
+  },
+  "Mushroom and Spinach Pasta": {
+    "ingredients": ["pasta", "mushroom", "spinach", "garlic"],
+    "instructions": [
+      "Cook pasta until al dente.",
+      "Sauté sliced mushrooms until browned.",
+      "Add garlic and cook 30 seconds.",
+      "Add spinach and stir until wilted.",
+      "Toss with pasta and a drizzle of olive oil. Season and serve."
+    ]
+  },
+  "Garlic Shrimp": {
+    "ingredients": ["shrimp", "garlic", "lemon"],
+    "instructions": [
+      "Peel and devein shrimp.",
+      "Heat butter in a skillet with plenty of sliced garlic.",
+      "Add shrimp and cook until pink, about 2 minutes per side.",
+      "Squeeze lemon juice over and add chopped parsley.",
+      "Serve immediately with bread."
+    ]
+  },
+  "Chicken Kebab": {
+    "ingredients": ["chicken", "bell pepper", "onion", "tomato"],
+    "instructions": [
+      "Cut chicken, bell pepper, onion, and tomato into chunks.",
+      "Marinate chicken in yogurt, lemon juice, and spices.",
+      "Thread onto skewers alternating chicken and vegetables.",
+      "Grill or broil for 12-15 minutes, turning occasionally.",
+      "Serve with rice and yogurt sauce."
+    ]
+  },
+  "Veggie Kebab": {
+    "ingredients": ["bell pepper", "onion", "tomato", "mushroom", "zucchini"],
+    "instructions": [
+      "Cut all vegetables into similar-sized chunks.",
+      "Marinate in olive oil, garlic, and herbs.",
+      "Thread onto skewers.",
+      "Grill for 10 minutes, turning occasionally.",
+      "Serve with a dipping sauce."
+    ]
+  },
+  "Teriyaki Chicken": {
+    "ingredients": ["chicken", "ginger", "garlic"],
+    "instructions": [
+      "Cut chicken into strips.",
+      "Stir-fry chicken until golden.",
+      "Add minced garlic and ginger.",
+      "Pour in a mixture of soy sauce, honey, and rice vinegar.",
+      "Simmer until sauce thickens and glazes the chicken."
+    ]
+  },
+  "Ginger Garlic Stir-Fry": {
+    "ingredients": ["ginger", "garlic", "broccoli", "carrot"],
+    "instructions": [
+      "Mince ginger and garlic.",
+      "Cut broccoli into florets and slice carrots.",
+      "Heat oil in a wok and add ginger and garlic.",
+      "Add vegetables and stir-fry until tender-crisp.",
+      "Season with soy sauce and sesame oil."
+    ]
+  },
+  "Spicy Garlic Eggplant": {
+    "ingredients": ["eggplant", "garlic", "ginger", "onion"],
+    "instructions": [
+      "Cube eggplant and deep-fry until golden. Drain.",
+      "In a wok, sauté garlic, ginger, and onion.",
+      "Add the fried eggplant.",
+      "Toss with soy sauce, chili paste, and vinegar.",
+      "Cook for 2 minutes and serve."
+    ]
+  },
+  "Ginger Tea": {
+    "ingredients": ["ginger", "lemon"],
+    "instructions": [
+      "Peel and thinly slice fresh ginger.",
+      "Simmer in water for 10 minutes.",
+      "Strain into cups.",
+      "Add lemon juice and honey to taste.",
+      "Serve hot."
+    ]
+  },
+  "Potato Wedges": {
+    "ingredients": ["potato", "garlic"],
+    "instructions": [
+      "Cut potatoes into thick wedges.",
+      "Toss with olive oil, minced garlic, salt, and paprika.",
+      "Spread on a baking sheet.",
+      "Bake at 425°F for 30-35 minutes until crispy.",
+      "Serve with ketchup or aioli."
+    ]
+  },
+  "Lemon Chicken": {
+    "ingredients": ["chicken", "lemon", "garlic"],
+    "instructions": [
+      "Season chicken with salt and pepper.",
+      "Sear in a hot pan until golden on both sides.",
+      "Add garlic and cook 30 seconds.",
+      "Squeeze in lemon juice and add chicken broth.",
+      "Simmer until chicken is cooked through. Serve with the pan sauce."
+    ]
+  },
+  "Creamy Mushroom Soup": {
+    "ingredients": ["mushroom", "onion", "garlic"],
+    "instructions": [
+      "Slice mushrooms and dice onion.",
+      "Sauté onion in butter until translucent.",
+      "Add mushrooms and cook until deep golden.",
+      "Add garlic, then flour to thicken.",
+      "Pour in broth and cream. Simmer 10 minutes and blend partially."
+    ]
+  },
+  "Kale and Potato Sauté": {
+    "ingredients": ["kale", "potato", "garlic"],
+    "instructions": [
+      "Dice potatoes and fry until golden.",
+      "Add minced garlic and cook 30 seconds.",
+      "Add chopped kale and cook until wilted.",
+      "Season with salt, pepper, and red pepper flakes.",
+      "Squeeze lemon juice over before serving."
+    ]
+  },
+  "Turkey and Vegetable Soup": {
+    "ingredients": ["turkey", "carrot", "potato", "onion"],
+    "instructions": [
+      "Dice turkey, carrot, potato, and onion.",
+      "Brown turkey in a pot.",
+      "Add vegetables and broth.",
+      "Simmer for 25 minutes until vegetables are tender.",
+      "Season with salt, pepper, and herbs."
+    ]
+  },
+  "Egg Drop Soup": {
+    "ingredients": ["egg", "ginger", "corn"],
+    "instructions": [
+      "Bring broth to a simmer with sliced ginger.",
+      "Add corn kernels.",
+      "Beat eggs and slowly drizzle into simmering broth while stirring.",
+      "The eggs will form silky ribbons.",
+      "Season with salt, white pepper, and sesame oil."
+    ]
+  },
+  "Peanut Noodles": {
+    "ingredients": ["pasta", "peanuts", "carrot", "cucumber"],
+    "instructions": [
+      "Cook noodles and rinse with cold water.",
+      "Make peanut sauce: blend peanuts with soy sauce, lime, and chili.",
+      "Julienne carrot and cucumber.",
+      "Toss noodles with peanut sauce.",
+      "Top with vegetables and crushed peanuts."
+    ]
+  },
+  "Roasted Beet Salad": {
+    "ingredients": ["beet", "onion", "lemon"],
+    "instructions": [
+      "Wrap beets in foil and roast at 400°F for 45 minutes.",
+      "Peel and dice the beets.",
+      "Thinly slice red onion.",
+      "Toss beets and onion with lemon juice and olive oil.",
+      "Season with salt and pepper."
+    ]
+  },
+  "Butternut Squash Soup": {
+    "ingredients": ["squash", "onion", "garlic"],
+    "instructions": [
+      "Peel and cube butternut squash.",
+      "Sauté onion and garlic until soft.",
+      "Add squash and cover with broth.",
+      "Simmer 20 minutes until tender.",
+      "Blend until smooth. Season with nutmeg, salt, and pepper."
+    ]
+  },
+  "Tofu Stir-Fry": {
+    "ingredients": ["tofu", "bell pepper", "broccoli", "onion"],
+    "instructions": [
+      "Press tofu and cut into cubes.",
+      "Pan-fry tofu until golden on all sides.",
+      "Stir-fry sliced bell pepper, broccoli, and onion.",
+      "Return tofu to the pan.",
+      "Toss with soy sauce and sesame oil. Serve over rice."
+    ]
+  },
+  "Garlic Tofu": {
+    "ingredients": ["tofu", "garlic", "ginger"],
+    "instructions": [
+      "Press and cube tofu.",
+      "Fry tofu until crispy.",
+      "In the same pan, sauté garlic and ginger.",
+      "Add soy sauce, a touch of sugar, and water.",
+      "Return tofu and toss until coated. Serve hot."
+    ]
+  },
+  "Mixed Vegetable Curry": {
+    "ingredients": ["potato", "carrot", "peas", "onion", "tomato"],
+    "instructions": [
+      "Dice potato and carrot.",
+      "Sauté onion until golden.",
+      "Add chopped tomato and cook until saucy.",
+      "Add potatoes, carrots, and peas with turmeric and garam masala.",
+      "Add water and simmer until vegetables are tender."
+    ]
+  },
+  "Egg Salad": {
+    "ingredients": ["egg", "onion", "celery"],
+    "instructions": [
+      "Hard boil eggs and chop.",
+      "Finely dice onion and celery.",
+      "Mix eggs, onion, and celery with mayonnaise.",
+      "Season with salt, pepper, and mustard.",
+      "Serve on bread or lettuce."
+    ]
+  },
+  "Sautéed Spinach": {
+    "ingredients": ["spinach", "garlic"],
+    "instructions": [
+      "Wash spinach thoroughly.",
+      "Heat olive oil in a pan and add sliced garlic.",
+      "Add spinach and toss until wilted.",
+      "Season with salt, pepper, and a squeeze of lemon.",
+      "Serve as a quick side dish."
+    ]
+  },
+  "Mushroom Omelette": {
+    "ingredients": ["egg", "mushroom", "onion"],
+    "instructions": [
+      "Slice mushrooms and dice onion.",
+      "Sauté mushrooms and onion until golden.",
+      "Beat eggs and pour into a hot pan.",
+      "Add mushrooms and onion to one side.",
+      "Fold and serve."
+    ]
+  },
+  "Mashed Sweet Potato": {
+    "ingredients": ["sweet potato"],
+    "instructions": [
+      "Peel and cube sweet potatoes.",
+      "Boil until tender.",
+      "Drain and mash.",
+      "Stir in butter and a splash of milk.",
+      "Season with salt and serve."
+    ]
+  },
+  "Carrot Sticks with Hummus": {
+    "ingredients": ["carrot", "chickpeas", "lemon", "garlic"],
+    "instructions": [
+      "Peel and cut carrots into sticks.",
+      "Make hummus by blending chickpeas, garlic, lemon juice, tahini, and olive oil.",
+      "Season hummus with salt and cumin.",
+      "Arrange carrot sticks around the hummus.",
+      "Serve as a healthy snack."
+    ]
+  },
+  "Broccoli and Chicken Pasta": {
+    "ingredients": ["pasta", "broccoli", "chicken", "garlic"],
+    "instructions": [
+      "Cook pasta until al dente.",
+      "Cut broccoli into florets and steam until tender.",
+      "Sauté diced chicken until cooked through.",
+      "Add garlic and cook 30 seconds.",
+      "Toss everything together with olive oil, salt, and parmesan."
+    ]
+  },
+  "Simple Fried Egg": {
+    "ingredients": ["egg", "butter"],
+    "instructions": [
+      "Melt butter in a non-stick pan over medium heat.",
+      "Crack the egg into the pan.",
+      "Cook until whites are set and edges are crispy.",
+      "Season with salt and pepper.",
+      "Serve on toast."
+    ]
+  },
+  "Boiled Egg Curry": {
+    "ingredients": ["egg", "onion", "tomato", "ginger", "garlic"],
+    "instructions": [
+      "Hard boil eggs and peel.",
+      "Sauté onion until golden.",
+      "Add ginger and garlic, cook 1 minute.",
+      "Add tomatoes and cook into a gravy.",
+      "Add eggs and simmer for 10 minutes. Serve with rice."
+    ]
+  },
+  "Corn Salad": {
+    "ingredients": ["corn", "tomato", "onion", "cucumber"],
+    "instructions": [
+      "Boil or grill corn and cut kernels off the cob.",
+      "Dice tomato, onion, and cucumber.",
+      "Combine all in a bowl.",
+      "Dress with lime juice, olive oil, salt, and chili.",
+      "Toss and serve fresh."
+    ]
+  },
+  "Potato Soup": {
+    "ingredients": ["potato", "onion", "garlic"],
+    "instructions": [
+      "Dice potatoes and onion.",
+      "Sauté onion and garlic in butter.",
+      "Add potatoes and broth.",
+      "Simmer until potatoes are very tender.",
+      "Mash some potatoes for thickness. Season and serve."
+    ]
+  }
+}
